@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProJApi/ProJApi.iml" filepath="$PROJECT_DIR$/ProJApi/ProJApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProJApiJava.iml" filepath="$PROJECT_DIR$/.idea/ProJApiJava.iml" />
     </modules>
   </component>
